@@ -10,9 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d86e8ac3-1771-4452-ba45-24c3c921a291" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="d86e8ac3-1771-4452-ba45-24c3c921a291" name="Default Changelist" comment="Создан файл index.html">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +26,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1swm1O51DiEMvaNAu7oJD0VlxAm" />
@@ -50,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621791810303</updated>
-      <workItem from="1621791812841" duration="1024000" />
+      <workItem from="1621791812841" duration="1338000" />
     </task>
     <task id="LOCAL-00001">
       <created>1621792764336</created>
@@ -59,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621792764337</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Создан файл index.html">
+      <created>1621793020266</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621793020266</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,13 +88,26 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Создан файл index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создан файл index.html" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="147" key="CommitChangelistDialog2" timestamp="1621792764340">
+    <state x="406" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621793036288">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="421" y="147" key="CommitChangelistDialog2/0.0.1920.1040/-1280.-96.1280.984@0.0.1920.1040" timestamp="1621792764340" />
+    <state x="406" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1280.-96.1280.984@0.0.1920.1040" timestamp="1621793036288" />
+    <state x="421" y="147" key="CommitChangelistDialog2" timestamp="1621792868829">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="421" y="147" key="CommitChangelistDialog2/0.0.1920.1040/-1280.-96.1280.984@0.0.1920.1040" timestamp="1621792868829" />
+    <state x="732" y="270" key="FileChooserDialogImpl" timestamp="1621792943564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="732" y="270" key="FileChooserDialogImpl/0.0.1920.1040/-1280.-96.1280.984@0.0.1920.1040" timestamp="1621792943564" />
+    <state x="544" y="248" key="Vcs.Push.Dialog.v2" timestamp="1621793077859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="544" y="248" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.-96.1280.984@0.0.1920.1040" timestamp="1621793077859" />
     <state x="782" y="306" key="svn.repositoryBrowser" timestamp="1621792673624">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
